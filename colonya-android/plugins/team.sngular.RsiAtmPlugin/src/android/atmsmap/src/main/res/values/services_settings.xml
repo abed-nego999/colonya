@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--URLs-->
+    <string name="ent_code" translatable="false">\?codigoEntidad=</string>
+    <string name="longitude" translatable="false">&amp;longitud=</string>
+    <string name="latitude" translatable="false">&amp;latitud=</string>
+    <string name="radius" translatable="false">&amp;radio=</string>
+
+    <!--Headers-->
+    <string name="sec_ent" translatable="false">CODSecEnt</string>
+    <string name="sec_user" translatable="false">CODSecUser</string>
+    <string name="sec_user_value" translatable="false"> </string>
+    <string name="sec_trans" translatable="false">CODSecTrans</string>
+    <string name="sec_trans_value" translatable="false"> </string>
+    <string name="terminal" translatable="false">CODTerminal</string>
+    <string name="terminal_value" translatable="false"> </string>
+    <string name="apl" translatable="false">CODApl</string>
+    <string name="apl_value" translatable="false">BDP</string>
+    <string name="canal" translatable="false">CODCanal</string>
+    <string name="canal_value" translatable="false">18</string>
+    <string name="sec_ip" translatable="false">CODSecIp</string>
+    <string name="sec_ip_value" translatable="false">10.1.245.2</string>
+
+    <!--Response-->
+    <string name="atm_output" translatable="false">EE_O_LocalizadorCajeros</string>
+    <string name="office_output" translatable="false">EE_O_LocalizadorOficinas</string>
+</resources>

@@ -1,0 +1,44 @@
+// main: ..\app.less
+
+.content-checkbox {
+    padding: 0.5rem 0;
+    overflow: hidden;
+    
+    label {
+        display: block;
+        width: 80%;
+        float: left;   
+    }
+}
+
+.checkboxMio {
+    -webkit-appearance: none;
+	background-color: @color-basico-1;
+	border: 1px solid #cacece;
+	box-shadow: 0 1px 2px rgba(0,0,0,0.05), inset 0px -15px 10px -12px rgba(0,0,0,0.05);
+	padding: 12px;
+	border-radius: 3px;
+	display: inline-block;
+	position: relative;
+    float: left;
+    outline: none;
+    margin-right: (@base / 2);
+    
+    &:active, &:checked:active {
+        box-shadow: 0 1px 2px rgba(0,0,0,0.05), inset 0px 1px 3px rgba(0,0,0,0.1);
+    }
+
+    &:checked {
+        box-shadow: 0 1px 2px rgba(0,0,0,0.05), inset 0px -15px 10px -12px rgba(0,0,0,0.05), inset 15px 10px -12px rgba(255,255,255,0.1);
+        color: #99a1a7;
+    }
+    
+    &:checked:after {
+        content: '\2714';
+        font-size: 21px;
+	    left: -1px;
+        position: absolute;
+        top: 0px;
+        color: @color-principal-1;
+    }
+}

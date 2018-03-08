@@ -1,0 +1,938 @@
+[
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\ic_poi_verde_cero.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\ic_poi_verde_cero.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/ic_poi_oficina_big.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/ic_poi_oficina_big.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable-xxhdpi/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/ic_logo.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/ic_logo.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/ayuda.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/ayuda.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\ic_button_ruta.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\ic_button_ruta.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/ic_location.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/ic_location.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/ic_location_disabled.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/ic_location_disabled.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\places_ic_clear.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxhdpi\\places_ic_clear.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/ic_poi_azul_cero_big.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/ic_poi_azul_cero_big.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable-xxhdpi/common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\bubble_shadow.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4\\res\\drawable-xxhdpi\\bubble_shadow.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/ic_poi_busqueda.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/ic_poi_busqueda.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/ic_poi_gris_cero_big.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/ic_poi_gris_cero_big.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\powered_by_google_light.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxhdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable-xxhdpi/common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/ic_cero_pulsado.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/ic_cero_pulsado.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable-xxhdpi/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\common_full_open_on_phone.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\ic_buscar_button.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\ic_buscar_button.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/ic_poi_azul_big.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/ic_poi_azul_big.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_light_disabled.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable-xxhdpi/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/ic_buscar.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/ic_buscar.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/ic_error.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/ic_error.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable-xxhdpi/common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\ic_poi_verde_cero_big.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\ic_poi_verde_cero_big.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/ic_poi_gris_big.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/ic_poi_gris_big.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\ic_location.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\ic_location.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\ic_poi_cajero.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\ic_poi_cajero.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable-xxhdpi/common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/ic_cerrar.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/ic_cerrar.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable-xxhdpi/common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_text_cursor_mtrl_alpha.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\ic_search_buscar.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\ic_search_buscar.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\poi_gris_modal.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\poi_gris_modal.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable-xxhdpi/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/ic_buscar_button.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/ic_buscar_button.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/places_ic_clear.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/30325c316064ed4054dcb3800a2acdfa3da0deb4/output/res/drawable-xxhdpi/places_ic_clear.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable-xxhdpi/common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/ic_telefono.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/ic_telefono.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_text_cursor_mtrl_alpha.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\ayuda.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\ayuda.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\ic_cero.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\ic_cero.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_normal.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable-xxhdpi/common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\ic_poi_azul_big.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\ic_poi_azul_big.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\ic_cero_pulsado.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\ic_cero_pulsado.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/ic_cero.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/ic_cero.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_light_focused.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable-xxhdpi/common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\ic_telefono.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\ic_telefono.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable-xxhdpi/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/poi_oficina_modal.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/poi_oficina_modal.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\powered_by_google_dark.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxhdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable-xxhdpi/common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/ic_poi_oficina.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/ic_poi_oficina.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/poi_azul_modal.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/poi_azul_modal.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\ic_buscar.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\ic_buscar.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/ic_pin.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/ic_pin.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\ic_poi_oficina_big.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\ic_poi_oficina_big.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/bubble_shadow.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/fbf16ba262c62fec7fa3fbdd861b7c599bff8e6d/output/res/drawable-xxhdpi/bubble_shadow.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\poi_azul_modal.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\poi_azul_modal.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable-xxhdpi/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable-xxhdpi/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/ic_back.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/ic_back.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\ic_poi_gris_big.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\ic_poi_gris_big.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/ic_button_ruta.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/ic_button_ruta.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/powered_by_google_dark.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/30325c316064ed4054dcb3800a2acdfa3da0deb4/output/res/drawable-xxhdpi/powered_by_google_dark.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\ic_poi_azul_cero_big.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\ic_poi_azul_cero_big.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable-xxhdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_focused.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable-xxhdpi/common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable-xxhdpi/common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\ic_cerrar.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\ic_cerrar.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/ic_search_back.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/ic_search_back.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/poi_verde_modal.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/poi_verde_modal.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\ic_poi_oficina.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\ic_poi_oficina.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable-xxhdpi/common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\ic_location_pulsado.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\ic_location_pulsado.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/ic_circle.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/ic_circle.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\ic_error.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\ic_error.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/ic_poi_verde_cero_big.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/ic_poi_verde_cero_big.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\ic_poi_gris_cero_big.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\ic_poi_gris_cero_big.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/poi_gris_modal.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/poi_gris_modal.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\ic_back.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/ic_poi_azul_cero.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/ic_poi_azul_cero.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable-xxhdpi/common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\ic_poi_azul.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\ic_poi_azul.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\ic_oficina_agrupada.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\ic_oficina_agrupada.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/ic_bullet.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/ic_bullet.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\ic_pin.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\ic_pin.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable-xxhdpi/common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/ic_poi_gris.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/ic_poi_gris.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\ic_bullet.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\ic_bullet.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\ic_poi_gris.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\ic_poi_gris.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/ic_poi_azul.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/ic_poi_azul.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/ic_search_buscar.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/ic_search_buscar.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\places_ic_search.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxhdpi\\places_ic_search.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\ic_location_disabled.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\ic_location_disabled.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/bubble_mask.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/fbf16ba262c62fec7fa3fbdd861b7c599bff8e6d/output/res/drawable-xxhdpi/bubble_mask.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/powered_by_google_light.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/30325c316064ed4054dcb3800a2acdfa3da0deb4/output/res/drawable-xxhdpi/powered_by_google_light.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\ic_poi_azul_cero.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\ic_poi_azul_cero.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable-xxhdpi/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/places_ic_search.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/30325c316064ed4054dcb3800a2acdfa3da0deb4/output/res/drawable-xxhdpi/places_ic_search.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_light_pressed.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable-xxhdpi/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable-xxhdpi/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable-xxhdpi/common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\poi_oficina_modal.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\poi_oficina_modal.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_focused.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable-xxhdpi/common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\ic_circle.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\ic_circle.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable-xxhdpi/common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/ic_oficina_agrupada.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/ic_oficina_agrupada.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable-xxhdpi/common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\ic_poi_busqueda.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\ic_poi_busqueda.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable-xxhdpi/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_focused.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable-xxhdpi/common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\ic_search_back.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\ic_search_back.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/ic_poi_cajero.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/ic_poi_cajero.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/ic_location_pulsado.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/ic_location_pulsado.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/ic_poi_gris_cero.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/ic_poi_gris_cero.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable-xxhdpi/common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/ic_button_indicaciones.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/ic_button_indicaciones.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\bubble_mask.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4\\res\\drawable-xxhdpi\\bubble_mask.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\ic_button_indicaciones.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\ic_button_indicaciones.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\ic_logo.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\ic_logo.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/ic_poi_verde_cero.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable-xxhdpi/ic_poi_verde_cero.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\poi_verde_modal.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\poi_verde_modal.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal.9.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable-xxhdpi/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\ic_poi_gris_cero.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable-xxhdpi\\ic_poi_gris_cero.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable-xxhdpi/abc_ic_clear_mtrl_alpha.png"
+    }
+]

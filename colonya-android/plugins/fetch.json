@@ -1,0 +1,188 @@
+{
+    "org.apache.cordova.dialogs": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\U028966\\Documents\\EasyPHP-DevServer-14.1VC11\\data\\localweb\\wallet.mobile\\plugins\\org.apache.cordova.dialogs"
+        }
+    },
+    "cordova-plugin-device": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-device@~1.1.1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-network-information": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-network-information@~1.2.0"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-splashscreen": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-splashscreen@~3.1.0"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-statusbar": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-statusbar@~2.1.0"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "com.phonegap.plugins.nativesettingsopener": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/deefactorial/Cordova-open-native-settings.git",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-dialogs": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-dialogs@~1.2.0"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-geolocation": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-geolocation@~2.1.0"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-screen-orientation": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-screen-orientation"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-uniquedeviceid": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-uniquedeviceid"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-sqlite-storage": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-sqlite-storage"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@~1.2.1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-crosswalk-webview": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-crosswalk-webview"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-inappbrowser": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-inappbrowser"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-badge": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-badge@0.7.2"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-app-event": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-app-event"
+        },
+        "is_top_level": false,
+        "variables": {}
+    },
+    "cordova-plugin-file": {
+        "source": {
+            "type": "git",
+            "url": "https://git-wip-us.apache.org/repos/asf/cordova-plugin-file.git",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-compat": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-compat"
+        },
+        "is_top_level": false,
+        "variables": {}
+    },
+    "cordova-plugin-file-opener2": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-file-opener2"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "phonegap-plugin-push": {
+        "source": {
+            "type": "registry",
+            "id": "phonegap-plugin-push@1.7.0"
+        },
+        "is_top_level": true,
+        "variables": {
+            "SENDER_ID": "192046065163"
+        }
+    },
+    "team.sngular.RsiAtmPlugin": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\ruben.gomezb\\Documents\\Sngular\\RsiAtmPlugin"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "ruralvia-data-dump": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\ruben.gomezb\\Documents\\ruralvia-data-dump"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-appversion": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-appversion"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}

@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\incremental\\mergeDevDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-h720dp\\values-h720dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 294,
+                        "endColumn": 66,
+                        "endOffset": 356
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/incremental/mergeDevDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/values-h720dp/values-h720dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 294,
+                        "endColumn": 66,
+                        "endOffset": 356
+                    }
+                }
+            }
+        ]
+    }
+]

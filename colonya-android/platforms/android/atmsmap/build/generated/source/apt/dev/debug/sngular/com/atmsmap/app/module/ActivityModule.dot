@@ -1,0 +1,9 @@
+digraph G1 {
+  concentrate = true;
+  ATMListDialog -> MapService;
+  BaseActivity -> LocationService;
+  MapActivity -> InfoRSIService;
+  MapFragment -> LocationService;
+  MapFragment -> MapService;
+  OfficeListDialog -> MapService;
+}

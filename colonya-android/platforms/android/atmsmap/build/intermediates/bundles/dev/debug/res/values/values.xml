@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_black">#333333</color>
+    <color name="app_gray">#999999</color>
+    <color name="app_green">#76b703</color>
+    <color name="app_semi_black">#666666</color>
+    <color name="app_switch_dark">#adadad</color>
+    <color name="app_transparent_help">#66000000</color>
+    <declare-styleable name="OpenSansTextView"><attr format="string" name="customFont"/></declare-styleable>
+    <dimen name="activity_map_closest_height">40dp</dimen>
+    <dimen name="activity_map_detail_height">200dp</dimen>
+    <dimen name="custom_cluster_image">50dp</dimen>
+    <dimen name="item_cluster_height">80dp</dimen>
+    <dimen name="item_cluster_max_height">250dp</dimen>
+    <string name="accept">Aceptar</string>
+    <string name="activity_map_location_error_message">No se ha podido obtener la posición GPS</string>
+    <string name="apl" translatable="false">CODApl</string>
+    <string name="apl_value" translatable="false">BDP</string>
+    <string name="app_name">Ruralvia</string>
+    <string name="atm_closest">El más cercano a</string>
+    <string name="atm_list">Listado de cajeros</string>
+    <string name="atm_output" translatable="false">EE_O_LocalizadorCajeros</string>
+    <string name="atms">     Cajeros     </string>
+    <string name="canal" translatable="false">CODCanal</string>
+    <string name="canal_value" translatable="false">18</string>
+    <string name="commission">Comisión:</string>
+    <string name="default_latitude" translatable="false">40.4169336</string>
+    <string name="default_longitude" translatable="false">-3.7039985</string>
+    <string name="default_radius_atm" translatable="false">100</string>
+    <string name="default_zoom" translatable="false">15</string>
+    <string name="dialog_error_service">No se han podido obtener los datos</string>
+    <string name="dialog_error_title">Atención</string>
+    <string name="different_group_modal">Cajeros asociados</string>
+    <string name="ent_code" translatable="false">\?codigoEntidad=</string>
+    <string name="help_group_entity">Cajeros Grupo \n Caja Rural</string>
+    <string name="help_others_entity">Cajeros \n otras entidades</string>
+    <string name="help_title">¡Encuentra los cajeros y oficinas más cercanos!</string>
+    <string name="latitude" translatable="false">&amp;latitud=</string>
+    <string name="list_empty">No hay información \n disponible a mostrar</string>
+    <string name="longitude" translatable="false">&amp;longitud=</string>
+    <string name="max_commission">Comisión máxima:</string>
+    <string name="max_radius">100 Km</string>
+    <string name="min_radius">1 Km</string>
+    <string name="network_error_subtitle">Por favor, inténtalo de \n nuevo más tarde…</string>
+    <string name="network_error_title">¡Parece que tu  \n conexión no va bien!</string>
+    <string name="office_closest">La más cercana a</string>
+    <string name="office_list">Listado de oficinas</string>
+    <string name="office_output" translatable="false">EE_O_LocalizadorOficinas</string>
+    <string name="offices">     Oficinas     </string>
+    <string name="radius" translatable="false">&amp;radio=</string>
+    <string name="same_entity_modal">Cajeros de Caja Rural</string>
+    <string name="same_group_modal">Cajeros del grupo Caja Rural</string>
+    <string name="search">Buscar</string>
+    <string name="search_radius">Radio de búsqueda</string>
+    <string name="sec_ent" translatable="false">CODSecEnt</string>
+    <string name="sec_ip" translatable="false">CODSecIp</string>
+    <string name="sec_ip_value" translatable="false">10.1.245.2</string>
+    <string name="sec_trans" translatable="false">CODSecTrans</string>
+    <string name="sec_trans_value" translatable="false"> </string>
+    <string name="sec_user" translatable="false">CODSecUser</string>
+    <string name="sec_user_value" translatable="false"> </string>
+    <string name="terminal" translatable="false">CODTerminal</string>
+    <string name="terminal_value" translatable="false"> </string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#000000</item>
+        <item name="colorPrimaryDark">#000</item>
+        <item name="colorAccent">#000</item>
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="drawerArrowStyle">@style/WhiteDrawerIconStyle</item>
+    </style>
+    <style name="DialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/abc_slide_in_bottom</item>
+        <item name="android:windowExitAnimation">@anim/abc_slide_out_bottom</item>
+    </style>
+    <style name="DialogSlideAnim" parent="@android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowAnimationStyle">@style/DialogAnimation</item>
+    </style>
+    <style name="WhiteDrawerIconStyle" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="spinBars">true</item>
+        <item name="color">@android:color/white</item>
+    </style>
+    <style name="clusterGenText">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#067B60</item>
+    </style>
+    <style name="iconGenBigText">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#333333</item>
+    </style>
+    <style name="iconGenText">
+        <item name="android:textSize">10sp</item>
+        <item name="android:textColor">#333333</item>
+    </style>
+</resources>

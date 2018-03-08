@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

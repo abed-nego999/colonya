@@ -1,0 +1,498 @@
+[
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/ic_poi_gris.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/ic_poi_gris.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/powered_by_google_dark.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/drawable-xxxhdpi/powered_by_google_dark.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\ic_logo.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\ic_logo.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/ic_poi_oficina_big.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/ic_poi_oficina_big.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\ic_poi_gris.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\ic_poi_gris.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxxhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\ic_location_pulsado.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\ic_location_pulsado.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/ic_oficina_agrupada.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/ic_oficina_agrupada.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\ic_location_disabled.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\ic_location_disabled.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\poi_azul_modal.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\poi_azul_modal.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\ic_poi_verde_cero.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\ic_poi_verde_cero.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxxhdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\ic_poi_verde_cero_big.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\ic_poi_verde_cero_big.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/places_ic_search.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/drawable-xxxhdpi/places_ic_search.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/poi_verde_modal.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/poi_verde_modal.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/ic_cero_pulsado.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/ic_cero_pulsado.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/ic_poi_busqueda.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/ic_poi_busqueda.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\ic_poi_gris_cero_big.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\ic_poi_gris_cero_big.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxxhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxxhdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\ic_buscar_button.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\ic_buscar_button.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/ic_poi_azul_big.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/ic_poi_azul_big.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/ic_poi_azul_cero.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/ic_poi_azul_cero.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/ic_poi_gris_cero.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/ic_poi_gris_cero.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\ayuda.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\ayuda.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\ic_button_indicaciones.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\ic_button_indicaciones.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/ic_button_ruta.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/ic_button_ruta.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/ic_telefono.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/ic_telefono.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/poi_gris_modal.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/poi_gris_modal.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/ic_poi_verde_cero_big.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/ic_poi_verde_cero_big.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\ic_poi_azul.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\ic_poi_azul.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\ic_location.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\ic_location.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\ic_cero.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\ic_cero.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/ic_location_disabled.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/ic_location_disabled.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\ic_button_ruta.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\ic_button_ruta.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/ic_poi_gris_big.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/ic_poi_gris_big.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/ic_cero.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/ic_cero.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\poi_gris_modal.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\poi_gris_modal.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxxhdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/poi_azul_modal.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/poi_azul_modal.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/ic_poi_verde_cero.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/ic_poi_verde_cero.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxxhdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\ic_poi_busqueda.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\ic_poi_busqueda.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/powered_by_google_light.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/drawable-xxxhdpi/powered_by_google_light.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxxhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\ic_telefono.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\ic_telefono.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\places_ic_search.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\places_ic_search.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxxhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/ic_pin.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/ic_pin.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\ic_search_back.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\ic_search_back.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\ic_search_buscar.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\ic_search_buscar.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/ic_back.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/ic_back.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\ic_poi_azul_cero.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\ic_poi_azul_cero.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\ic_poi_azul_big.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\ic_poi_azul_big.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\poi_oficina_modal.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\poi_oficina_modal.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/ic_buscar_button.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/ic_buscar_button.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\powered_by_google_dark.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/ic_search_back.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/ic_search_back.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\places_ic_clear.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\places_ic_clear.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/places_ic_clear.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/drawable-xxxhdpi/places_ic_clear.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\powered_by_google_light.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/ic_logo.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/ic_logo.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/ic_poi_azul.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/ic_poi_azul.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/ic_search_buscar.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/ic_search_buscar.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\ic_oficina_agrupada.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\ic_oficina_agrupada.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\ic_pin.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\ic_pin.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/ic_poi_gris_cero_big.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/ic_poi_gris_cero_big.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\ic_cerrar.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\ic_cerrar.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/ic_error.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/ic_error.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/poi_oficina_modal.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/poi_oficina_modal.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\ic_bullet.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\ic_bullet.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\ic_error.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\ic_error.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxxhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/ayuda.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/ayuda.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\ic_back.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/ic_poi_cajero.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/ic_poi_cajero.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/ic_button_indicaciones.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/ic_button_indicaciones.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/ic_location.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/ic_location.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/ic_circle.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/ic_circle.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\ic_poi_cajero.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\ic_poi_cajero.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxxhdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/abc_ic_clear_mtrl_alpha.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxxhdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\ic_poi_gris_big.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\ic_poi_gris_big.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/ic_poi_azul_cero_big.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/ic_poi_azul_cero_big.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\ic_buscar.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\ic_buscar.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/ic_location_pulsado.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/ic_location_pulsado.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\poi_verde_modal.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\poi_verde_modal.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\ic_poi_oficina_big.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\ic_poi_oficina_big.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/ic_buscar.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/ic_buscar.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxxhdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/ic_poi_oficina.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/ic_poi_oficina.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\ic_poi_oficina.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\ic_poi_oficina.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\ic_cero_pulsado.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\ic_cero_pulsado.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\ic_poi_gris_cero.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\ic_poi_gris_cero.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\ic_circle.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\ic_circle.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/ic_cerrar.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/ic_cerrar.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxxhdpi-v4\\ic_poi_azul_cero_big.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/D:\\Android\\Workspace\\Proyectos\\RSI-ATM\\RsiAtm\\atmsmap\\src\\main\\res\\drawable-xxxhdpi\\ic_poi_azul_cero_big.png"
+    },
+    {
+        "merged": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/build/intermediates/res/merged/dev/debug/drawable-xxxhdpi-v4/ic_bullet.png",
+        "source": "/Users/luissedano/Repositories/rsi-atm-android/RsiAtm/atmsmap/src/main/res/drawable-xxxhdpi/ic_bullet.png"
+    }
+]

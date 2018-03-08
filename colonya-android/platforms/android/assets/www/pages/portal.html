@@ -1,0 +1,82 @@
+<div id="page-portal" data-role="page" data-panel="true" class="bgWhite">
+    <header id="header-portal" data-role="header" data-position="fixed" data-tap-toggle="false" role="banner" class="sinBordeInferior z-index0">
+        <div class="breadcrumbs sinBordeInferior ui-grid-b headerRuralviaPortal">
+            <div class="ui-block-a">
+
+                    <img src="{{logo}}" class="logoPortal">
+
+            </div>
+
+            <div class="ui-block-c">
+                <a  class="derecha ui-icon-menu ui-link" id="boton-panel" title="abrir menu"></a>
+            </div>
+        </div>
+
+    </header>
+
+    <section data-role="content" id="portal" role="main" class="contenedorPortal bgWhite">
+
+        <div id="sliderContenido" class="slider js-slider sliderMargin">
+            <section class="slider__wrapper">
+                {{#each productos}}
+                    <article class="slider__item slide">
+                        {{#if url}}
+                            <a class="publi" data-url="{{url}}">
+                                <img class="imagen-carrusel" src="{{Cont}}" alt="">
+                            </a>
+                        {{else}}
+                            <img class="imagen-carrusel" src="{{Cont}}" alt="">
+                        {{/if}}
+                    </article>
+                {{/each}}
+          </section>
+        </div>
+
+        <div id="botonera" class="botoneraPortal">
+            <div id="buscador-contacto" class="ui-grid-a buscadorContactoMargin botoneraBuscadorContacto">
+                <div id="oficinasCajerosBlock" class="ui-block-a">
+                    <a id="buscadorButton" data-role="button" class="btnBlanco imgBuscador" role="button">
+                        <div class="ui-grid-a">
+                            <div class="ui-block-a width40">
+                            </div>
+                            <div class="ui-block-b">
+                                <span id="lblBuscador" class="lng-portal-OficinasYCajeros"></span>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div id="contactoBlock" class="ui-block-b">
+                    <a id="contactoButton" data-role="button" class="btnBlanco imgContacto" role="button">
+                        <div class="ui-grid-a">
+                            <div class="ui-block-a width40">
+                            </div>
+                            <div class="ui-block-b">
+                                <span id="lblContacto" class="lng-portal-Contacto"></span>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <div id="accesoClientesBlock" class="botoneraBuscadorContacto sinPaddingTop">
+                <a id="accesoClientesButton" data-role="button" class="lng-portal-AccesoClientes btnVerde"></a>
+            </div>
+
+
+        </div>
+
+    </section>
+
+    <!-- POPUP AVISOS -->
+    <div data-role="popup" id="popup-push-unavailable" data-position-to="window" data-shadow="true" class="popup sinBorde" data-theme="a" data-dismissible="true" data-overlay-theme="b" data-history="false" data-position-to="origin">
+        <div class="cargando">
+            <a href="#" id="cerrarPopupPushUnavailable" class="cerrarPopup derecha">X</a>
+        </div>
+        <div role="main" class="ui-content">
+            <p id="pushConexion" class="lng-pushConexion"></p>
+            <p id="pushNoConexion" class="lng-pushNoConexion"></p>
+        </div>
+    </div>
+
+</div>

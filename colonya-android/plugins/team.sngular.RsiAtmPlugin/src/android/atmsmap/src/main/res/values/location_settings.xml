@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_latitude" translatable="false">40.4169336</string>
+    <string name="default_longitude" translatable="false">-3.7039985</string>
+    <string name="default_zoom" translatable="false">15</string>
+    <string name="default_radius_atm" translatable="false">100</string>
+</resources>

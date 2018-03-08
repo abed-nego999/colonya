@@ -1,0 +1,54 @@
+[
+    {
+        "outputFile": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/incremental/mergeDevDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/values-hdpi/values-hdpi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 297,
+                        "endLine": 8,
+                        "endColumn": 13,
+                        "endOffset": 567
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\incremental\\mergeDevDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-hdpi\\values-hdpi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 297,
+                        "endLine": 8,
+                        "endColumn": 13,
+                        "endOffset": 567
+                    }
+                }
+            }
+        ]
+    }
+]

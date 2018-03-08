@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.rsi.Colonya" version="3.0.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <preference name="loglevel" value="DEBUG" />
+    <feature name="NativeSettings">
+        <param name="android-package" value="com.phonegap.plugins.nativesettings.NativeSettings" />
+    </feature>
+    <feature name="Badge">
+        <param name="android-package" value="de.appplant.cordova.plugin.badge.Badge" />
+    </feature>
+    <preference name="webView" value="org.crosswalk.engine.XWalkWebViewEngine" />
+    <preference default="16+" name="xwalkVersion" />
+    <preference default="--disable-pull-to-refresh-effect" name="xwalkCommandLine" />
+    <preference default="embedded" name="xwalkMode" />
+    <preference default="true" name="xwalkMultipleApk" />
+    <feature name="Device">
+        <param name="android-package" value="org.apache.cordova.device.Device" />
+    </feature>
+    <feature name="Notification">
+        <param name="android-package" value="org.apache.cordova.dialogs.Notification" />
+    </feature>
+    <feature name="Geolocation">
+        <param name="android-package" value="org.apache.cordova.geolocation.Geolocation" />
+    </feature>
+    <feature name="InAppBrowser">
+        <param name="android-package" value="org.apache.cordova.inappbrowser.InAppBrowser" />
+    </feature>
+    <feature name="NetworkStatus">
+        <param name="android-package" value="org.apache.cordova.networkinformation.NetworkManager" />
+    </feature>
+    <feature name="YoikScreenOrientation">
+        <param name="android-package" value="net.yoik.cordova.plugins.screenorientation.YoikScreenOrientation" />
+    </feature>
+    <feature name="SplashScreen">
+        <param name="android-package" value="org.apache.cordova.splashscreen.SplashScreen" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="StatusBar">
+        <param name="android-package" value="org.apache.cordova.statusbar.StatusBar" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="UniqueDeviceID">
+        <param name="android-package" value="hu.dpal.phonegap.plugins.UniqueDeviceID" />
+    </feature>
+    <feature name="Whitelist">
+        <param name="android-package" value="org.apache.cordova.whitelist.WhitelistPlugin" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="SQLitePlugin">
+        <param name="android-package" value="io.sqlc.SQLitePlugin" />
+    </feature>
+    <feature name="PushNotification">
+        <param name="android-package" value="com.adobe.phonegap.push.PushPlugin" />
+    </feature>
+    <feature name="File">
+        <param name="android-package" value="org.apache.cordova.file.FileUtils" />
+        <param name="onload" value="true" />
+    </feature>
+    <allow-navigation href="cdvfile:*" />
+    <feature name="FileOpener2">
+        <param name="android-package" value="io.github.pwlin.cordova.plugins.fileopener2.FileOpener2" />
+    </feature>
+    <feature name="RsiAtmPlugin">
+        <param name="android-package" value="team.sngular.RsiAtmPlugin" />
+    </feature>
+    <preference name="android-minSdkVersion" value="16" />
+    <feature name="Data-Dump">
+        <param name="android-package" value="com.cajarural.data.DataDump" />
+    </feature>
+    <feature name="RareloopAppVersion">
+        <param name="android-package" value="com.rareloop.cordova.appversion.RareloopAppVersion" />
+    </feature>
+    <preference name="Fullscreen" value="false" />
+    <preference name="android-windowSoftInputMode" value="adjustResize" />
+    <preference name="Orientation" value="portrait" />
+    <icon density="ldpi" src="res/icono/Android/36.png" />
+    <icon density="mdpi" src="res/icono/Android/48.png" />
+    <icon density="hdpi" src="res/icono/Android/72.png" />
+    <icon density="xhdpi" src="res/icono/Android/96.png" />
+    <icon density="xxhdpi" src="res/icono/Android/144.png" />
+    <splash density="land-hdpi" src="res/Splash/Android/screen-hdpi-landscape.png" />
+    <splash density="land-ldpi" src="res/Splash/Android/screen-ldpi-landscape.png" />
+    <splash density="land-mdpi" src="res/Splash/Android/screen-mdpi-landscape.png" />
+    <splash density="land-xhdpi" src="res/Splash/Android/screen-xhdpi-landscape.png" />
+    <splash density="port-hdpi" src="res/Splash/Android/screen-hdpi-portrait_480x800.png" />
+    <splash density="port-ldpi" src="res/Splash/Android/screen-ldpi-portrait_240x320.png" />
+    <splash density="port-mdpi" src="res/Splash/Android/screen-mdpi-portrait_320x480.png" />
+    <splash density="port-xhdpi" src="res/Splash/Android/screen-xhdpi-portrait_720x1280.png" />
+    <name>Colonya</name>
+    <description>
+        A sample Apache Cordova application that responds to the deviceready event.
+    </description>
+    <author email="dev@altran.com" href="http://www.altran.es">
+        Altran España
+    </author>
+    <content src="index.html" />
+    <access launch-external="yes" origin="http:*" />
+    <access launch-external="yes" origin="https:*" />
+    <access launch-external="yes" origin="tel:*" />
+    <access launch-external="yes" origin="mailto:*" />
+    <allow-navigation href="*" />
+    <preference name="StatusBarOverlaysWebView" value="true" />
+    <preference name="StatusBarBackgroundColor" value="#000000" />
+    <preference name="StatusBarStyle" value="default" />
+    <preference name="SplashScreen" value="screen" />
+    <preference name="SplashScreenDelay" value="7000" />
+    <preference name="xwalkVersion" value="16+" />
+    <preference name="xwalkCommandLine" value="--disable-pull-to-refresh-effect" />
+    <preference name="xwalkMode" value="embedded" />
+    <preference name="xwalkMultipleApk" value="true" />
+</widget>

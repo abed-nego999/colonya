@@ -1,0 +1,111 @@
+<div id="page-registroUsuario" data-role="page" data-panel="true"> 
+    <header class="sinBordeInferior headerRuralviaInterior bgWhite" data-role="header" data-tap-toggle="false" data-position="fixed" role="banner">
+        <a href="#" data-role="button" class="icono-atras bgWhite" id="atras-registroUsuario" role="button" title="volver atras"></a>
+        
+        <h1 class="ui-title tituloHeaderInterior" role="heading" aria-level="1">
+            
+                     <img src="{{logo}}" class="logo" >
+                
+                    
+                
+        </h1>
+    </header>
+        
+    <section data-role="content" role="main" class="contenedorInterior">
+        <div id="headerContent" class="headerVerde fijarCabecera">
+            <label class="lng-registroUsuario-titulo tituloIframe">
+                <img src="../img/usuario_tit.png" class="logoHeader">Registro Usuario
+            </label>
+        </div>
+        
+        <div id="pageRegistroUsuario" class="contenedorPadding sinPaddingTop paddingLateral fijarCabecera">
+            
+            <!--Inicio Parte común-->
+            <p class="lng-registro-cuerpo-1 textoRegistro"></p>
+            
+            <p class="lng-registro-cuerpo-1-largo textoRegistro"></p>
+
+            <p class="lng-registro-cuerpo-2 textoRegistro"></p>
+            
+            <p class="lng-registro-cuerpo-2-largo textoRegistro"></p>
+            <!--Fin Parte Común-->      
+
+            <div id="divActivarUsuario">
+                
+                <div id="variosUsuarios">
+                    <label for="selectUsuario" class="lng-label-registro-variosUsuarios textoRegistro textoFor"></label>
+                    <select id="selectUsuario" class="selectUsuario"></select>
+                    
+                    <div class="ui-grid-a botoneraAceptarEliminar">
+                        <div class="ui-block-a">
+                            <a id="btnRegistroAceptar" data-role="button" data-shadow="false" class="lng-boton-registro-aceptar btnVerde"></a>
+                        </div>
+                        
+                        <div class="ui-block-b">
+                            <a id="btnRegistroEliminar" data-role="button" data-shadow="false" class="lng-boton-registro-eliminar btnGris"></a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div id="unUsuario">
+                    <label for="recuadroUsuario" class="lng-label-registro-unUsuario textoRegistro textoFor"></label>
+                    <label id="recuadroUsuario" class="recuadro textoCentro"></label>
+                    <div class="ui-grid-a botoneraAceptarEliminar">
+                        <div class="ui-block-a">
+                            <a id="btnRegistroAceptar-1Usuario" data-role="button" data-shadow="false" class="lng-boton-registro-aceptar btnVerde"></a>
+                        </div>
+                        
+                        <div class="ui-block-b">
+                            <a id="btnRegistroEliminar-1Usuario" data-role="button" data-shadow="false" class="lng-boton-registro-eliminar btnGris"></a>
+                        </div>
+                    </div>
+                    <!--<a id="btnRegistroEliminarUsuario" data-role="button" data-shadow="false" class="lng-boton-registro-eliminarUsuario btnVerde"></a>-->
+                </div>
+                
+            </div>
+            
+            <div id="anadirUsuario" class="ui-grid-a margenSuperior margenInferior">
+                <div class="ui-block-a widthEM">
+                    <div class="logoAvisoAnadirUsuario"></div>
+                </div>
+                <div class="ui-block-b width90">
+                    <span id="lblBuscador" class="lng-registro-AnadirUsuario textoRegistro subrayadoAnadirUsuario"></span>
+                </div>
+            </div>
+            
+            <div id="nuevoUsuario" class="inputNuevoUsuario">
+                <input class="inputRuralvia" data-clear-btn="true" type="text" name="name" id="inputRegistroUsuario" value="" placeholder="Usuario" maxlength="8"/>
+                <label class="labelError" id="errorRegistroUsuario"></label>
+                
+                <input class="inputRuralvia" data-clear-btn="true" type="password" name="name" id="inputRegistroDNI" value="" placeholder="NIF/NIE" maxlength="9"/>
+                <label class="labelError" id="errorRegistroDNI"></label>
+                <a id="btnRegistroNuevoUsuario" data-role="button" data-shadow="false" class="lng-boton-registro-nuevo btnGris"></a>
+            </div>
+            
+        </div>
+        
+    </section>
+    
+    <div data-role="popup" id="popup-registro-eliminar" data-shadow="true" class="popup sinBorde" data-theme="a" data-dismissible="true" data-overlay-theme="b" data-history="false" data-position-to="origin">
+
+        <div class="headerNegro">
+            <label class="lng-popupHeader-titulo tituloPopupEliminar centrado"></label>
+        </div>
+        
+        <div role="main" class="ui-content">
+            <p class="lng-registro-eliminar-texto-1"></p>
+            <p class="lng-registro-eliminar-texto-2"></p>
+            
+            <div id="botones" class="ui-grid-a">
+                <div class="ui-block-a">
+                    <a id="btnRegistroEliminarAceptar" data-role="button" data-shadow="false" class="lng-popup-eliminar-aceptar btnVerde"></a>
+                </div>
+
+                <div class="ui-block-b">
+                    <a id="btnRegistroEliminarCancelar" data-role="button" data-shadow="false" class="lng-popup-eliminar-cancelar btnGris"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>

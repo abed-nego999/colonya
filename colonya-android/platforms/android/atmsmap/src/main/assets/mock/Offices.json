@@ -1,0 +1,64 @@
+{
+  "EE_O_LocalizadorOficinas": {
+    "@xmlns:se": "http://www.ruralserviciosinformaticos.com/empresa/SOA_RVIA/SE_RVA_LocalizadorOficinas/",
+    "@xmlns:soap-env": "http://schemas.xmlsoap.org/soap/envelope/",
+    "codigoRetorno": "1",
+    "Respuesta": {
+      "numeroRegistros": "2",
+      "ListaLocalizacion": [
+        {
+          "codigoEntidad": "2349",
+          "codigoOficina": "20338",
+          "nombreEntidad": "EVOBANCO",
+          "direccion": "AVDA. DEL MEDITERRANEO,16 BAJO",
+          "codigoPostal": "28001",
+          "codigoProvincia": "28",
+          "mail": "null",
+          "telefono": "914340216",
+          "indCajero": "S",
+          "latitud": "40.3520685",
+          "longitud": "-3.62717218",
+          "nombreOficina": "MADRID URB.2 AVDA. DEL MEDITERRANEO",
+          "nombreLocalidad": "MADRID",
+          "nombreProvincia": "MADRID",
+          "resultado": "R",
+          "horario": "De lunes a viernes de 9.00 a 20.00.-",
+          "festivos": "1 y 6 de enero, 19 de marzo, 2 y 3 de abril, 1 y 15 de mayo.-"
+        },
+        {
+          "codigoEntidad": "3016",
+          "codigoOficina": "3426",
+          "nombreEntidad": "POPULAR",
+          "direccion": "AVDA. DEL MEDITERRANEO,16 BAJO",
+          "codigoPostal": "28001",
+          "codigoProvincia": "28",
+          "mail": "null",
+          "telefono": "914340216",
+          "indCajero": "N",
+          "latitud": "40.3147",
+          "longitud": "-3.6863",
+          "nombreOficina": "MADRID URB.2 AVDA. DEL MEDITERRANEO",
+          "nombreLocalidad": "MADRID",
+          "nombreProvincia": "MADRID",
+          "resultado": "R",
+          "horario": "De lunes a viernes de 9.00 a 20.00.-",
+          "festivos": "1 y 6 de enero, 19 de marzo, 2 y 3 de abril, 1 y 15 de mayo.-"
+        }
+      ]
+    },
+    "errores": {
+      "ns1:codigoMostrar": {
+        "@xmlns:ns1": "http://www.ruralserviciosinformaticos.com/XSD/ErrorGenerico_O/",
+        "#text": "40000"
+      },
+      "ns1:mensajeMostrar": {
+        "@xmlns:ns1": "http://www.ruralserviciosinformaticos.com/XSD/ErrorGenerico_O/",
+        "#text": "Error ValidaciÃ³n"
+      },
+      "ns1:solucion": {
+        "@xmlns:ns1": "http://www.ruralserviciosinformaticos.com/XSD/ErrorGenerico_O/",
+        "#text": "Error de validaciÃ³n en el parÃ¡metro de entrada: longitud y error: Decimal fractional digits (8) of value '-0.23143993' does not match fractionDigits facet (7) for type of longitud element in EE_I_LocalizadorOficinas_type in namespace http://www.ruralserviciosinformaticos.com/empresa/EE_RVA_LocalizadorOficinas/"
+      }
+    }
+  }
+}

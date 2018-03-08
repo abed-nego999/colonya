@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AwesomeMap</string>
+    <string name="google_directions_url" translatable="false">https://maps.googleapis.com/maps/api/directions/json?</string>
+    <string name="google_place_url" translatable="false">https://maps.googleapis.com/maps/api/place/nearbysearch/json?</string>
+</resources>

@@ -1,0 +1,68 @@
+<div data-role="panel" class="panel-menu" id="panel-menu" data-position="right" data-display="overlay" data-theme="b" data-position-fixed="true" data-dismissible="true">
+    
+    <div class="width100 bgMenu height100h">
+        <ul id="menu-listview" class="js-panel-menu" data-role="listview" data-icon="false">
+            <li class="menu-item paddingSupInfMenu paddingLateralMenu subrayadoGrisMenu js-registro-usuario">
+                <div class="ui-grid-c">
+                    <div class="ui-block-a width5"></div>
+                    <div class="ui-block-b width10">
+                        <a id="imgRegistroUsuario" class="ui-link ui-btn "></a>
+                    </div>
+                    <div class="ui-block-c width5"></div>
+                    <div class="ui-block-d width80">
+                        <a href="#" class="enlacePanel">
+                            <span class="white">Registro de usuario</span>
+                        </a>
+                    </div>
+                </div>                         
+            </li>
+            {{#each listDocu}}
+                {{#if esPadre}}
+                    <li class="menu-item itemCMS paddingSupInfMenu paddingLateralMenu subrayadoGrisMenu flechaDerecha {{clase}} padre" ordenmenu="{{Orden}}">
+                        <div class="ui-grid-c">
+                            <div class="ui-block-a width5"></div>
+                            <div class="ui-block-b width10">
+                                <img src="{{logo}}" class="width100">
+                            </div>
+                            <div class="ui-block-c width5"></div>
+                            <div class="ui-block-d width80">
+                                <!-- <a href="{{Url}}" rel="external" target="_parent" class="enlacePanel"> -->
+                                    <span class="white">{{Titulo}}</span>
+                                <!-- </a> -->
+                            </div>
+                        </div>                         
+                    </li>
+                {{else}}
+                    {{#if esHijo}}
+                        <li class="menu-item itemCMS paddingSupInfMenu paddingLateralMenu subrayadoGrisMenu {{clase}} esHijo" ordenpadre="{{Padre}}">
+                            <div class="ui-grid-b">
+                                <div class="ui-block-a width5"></div>
+                                <div class="ui-block-b width15"></div>
+                                <div class="ui-block-c width80">
+                                    <a onClick="paginasMenu.mostrar('{{Url}}')" rel="external" target="_parent" class="enlacePanel">
+                                        <span class="white">{{Titulo}}</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </li>
+                    {{else}}
+                        <li class="menu-item itemCMS paddingSupInfMenu paddingLateralMenu subrayadoGrisMenu {{clase}}">
+                            <div class="ui-grid-c">
+                                <div class="ui-block-a width5"></div>
+                                <div class="ui-block-b width10">
+                                    <img src="{{logo}}" class="width100">
+                                </div>
+                                <div class="ui-block-c width5"></div>
+                                <div class="ui-block-d width80">
+                                    <a onClick="paginasMenu.mostrar('{{Url}}')" rel="external" target="_parent" class="enlacePanel">
+                                        <span class="white">{{Titulo}}</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </li>
+                    {{/if}}
+                {{/if}}
+            {{/each}}
+        </ul>        
+    </div>
+</div>

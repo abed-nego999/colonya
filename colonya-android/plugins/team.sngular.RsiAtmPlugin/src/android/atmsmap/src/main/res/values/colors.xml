@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_black">#333333</color>
+    <color name="app_green">#76b703</color>
+    <color name="app_switch_dark">#adadad</color>
+    <color name="app_gray">#999999</color>
+    <color name="app_semi_black">#666666</color>
+    <color name="app_transparent_help">#66000000</color>
+</resources>

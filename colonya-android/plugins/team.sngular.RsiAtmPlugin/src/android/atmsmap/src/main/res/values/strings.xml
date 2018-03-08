@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Ruralvia</string>
+    <string name="atms">     Cajeros     </string>
+    <string name="offices">     Oficinas     </string>
+    <string name="accept">Aceptar</string>
+    <string name="atm_list">Listado de cajeros</string>
+    <string name="office_list">Listado de oficinas</string>
+    <string name="search">Buscar</string>
+    <string name="search_radius">Radio de búsqueda</string>
+    <string name="min_radius">1 Km</string>
+    <string name="max_radius">100 Km</string>
+    <string name="atm_closest">El más cercano a</string>
+    <string name="office_closest">La más cercana a</string>
+    <string name="commission">Comisión:</string>
+    <string name="max_commission">Comisión máxima:</string>
+
+
+    <string name="list_empty">No hay información \n disponible a mostrar</string>
+    <string name="dialog_error_title">Atención</string>
+    <string name="activity_map_location_error_message">No se ha podido obtener la posición GPS</string>
+    <string name="network_error_title">¡Parece que tu  \n conexión no va bien!</string>
+    <string name="network_error_subtitle">Por favor, inténtalo de \n nuevo más tarde…</string>
+    <string name="dialog_error_service">No se han podido obtener los datos</string>
+
+    <string name="same_entity_modal">Cajeros de Caja Rural</string>
+    <string name="same_group_modal">Cajeros del grupo Caja Rural</string>
+    <string name="different_group_modal">Cajeros asociados</string>
+
+    <string name="help_title">¡Encuentra los cajeros y oficinas más cercanos!</string>
+    <string name="help_group_entity">Cajeros Grupo \n Caja Rural</string>
+    <string name="help_others_entity">Cajeros \n otras entidades</string>
+</resources>

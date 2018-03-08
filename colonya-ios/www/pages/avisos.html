@@ -1,0 +1,244 @@
+<div id="page-avisos" data-role="page" data-panel="true" class="bgWhite">
+    <header id="headerAvisos" class="sinBordeInferior headerRuralviaInterior bgWhite" data-role="header" data-position="fixed"
+        data-tap-toggle="false" role="banner">
+        <a data-role="button" class="icono-atras bgWhite" id="atras-avisos" role="button" title="volver atras"></a>
+
+        <h1 class="ui-title tituloHeaderInterior" role="heading" aria-level="1">
+            <img src="{{logo}}" class="logo">
+        </h1>
+
+    </header>
+
+    <section id="sectionAvisos" data-role="content" role="main" class="contenedorInterior">
+        <div id="headerContent" class="headerVerde fijarCabecera">
+                <!--<div class="logoAvisoHeader izquierda"></div>-->
+            <label class="lng-avisos-titulo tituloIframe izquierda">
+                <img src="../img/avisosHeader.png" class="logoHeader">Avisos
+            </label>
+            <div class="derecha">
+                <input class="checkboxMio izquierda" type="checkbox" data-role="none" name="checkEliminar" id="checkEliminar" />
+                <label class="lng-avisos-checkbox tituloEliminar tituloIframe izquierda marginRightEliminar"></label>
+            </div>
+        </div>
+
+        <div id="pageMensajesPushActivados">
+            <!--Lista con los mensajes-->
+            <div id="xpull">            
+                <div id="mensajePush">
+                    {{#if obj.hayMensajes}}
+                    <!-- Recorro lista y muestro -->
+                    {{#each obj.mensajes}} {{#if leido}}
+                    <div class="ui-grid-c subrayadoPush paddingSupInf fondoMensajePushLeido">
+                        <div class="ui-block-a checkboxPush">
+                            <input class="checkboxMio" type="checkbox" data-role="none" name="checkEliminar{{@index}}" id="checkEliminar{{@index}}" />
+                        </div>
+                        <div class="ui-block-b msgPush pushLeido">
+                            <span>{{msg}}</span>
+                        </div>
+                        <div class="ui-block-c fechaPush fechaPushLeido">
+                            <span>{{rsi-dateFormatPush fecha}}</span>
+                        </div>
+                        <div class="ui-block-d irPush">
+                            <span>></span>
+                        </div>
+                    </div>
+                    {{else}}
+                    <div class="ui-grid-c subrayadoPush paddingSupInf fondoMensajePushNoLeido">
+                        <div class="ui-block-a checkboxPush">
+                            <input class="checkboxMio" type="checkbox" data-role="none" name="checkEliminar{{@index}}" id="checkEliminar{{@index}}" />
+                        </div>
+                        <div class="ui-block-b msgPush pushNoLeido">
+                            <span>{{msg}}</span>
+                        </div>
+                        <div class="ui-block-c fechaPush fechaPushNoLeido">
+                            <span>{{rsi-dateFormatPush fecha}}</span>
+                        </div>
+                        <div class="ui-block-d irPush">
+                            <span>></span>
+                        </div>
+                    </div>
+                    {{/if}} {{/each}} {{else}}
+                    <!-- Indico que no hay mensajes -->
+                    <div class="centrado">
+                        <img id="imgNoMensajePush" class="noMensajePush">
+                        <p class="lng-avisos-NoAvisos"></p>
+                    </div>
+                    {{/if}}
+                </div>
+            </div>
+
+            <div data-role="footer" data-theme="a" data-position="fixed" id="footerBotones" class="footerPushBotonera">
+
+                <div data-role="navbar">
+                    <ul>
+                        <li>
+                            <a href="#" id="altaNuevoUsuarioButton" class="footerPushBtn"></a>
+                        </li>
+                        <li>
+                            <a href="#" id="btnDesactivar" class="footerPushBtn"></a>
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+
+        </div>
+
+        <div id="pageAvisoPrevioActivar" class="paddingLateral">
+
+            <!--Inicio Parte común-->
+            <p class="lng-avisos-cuerpo-1 textoAvisos"></p>
+            
+            <p class="lng-avisos-cuerpo-2 textoAvisos2"></p>
+
+            <!--Fin Parte Común-->
+
+            <div id="divActivarUsuario">
+
+                <label class="lng-label-aviso-seleccioneUsuario textoRegistro textoFor"></label>
+
+                <select id="selectUsuario" class="selectUsuario"></select>
+
+                <label id="recuadroUsuario" class="recuadro textoCentro"></label>
+
+                <a id="btnAvisoActivar" data-role="button" data-shadow="false" class="lng-boton-aviso-activar btnVerde"></a>
+
+                <div id="anadirUsuario" class="ui-grid-a margenSuperior margenInferior">
+                    <div class="ui-block-a widthEM">
+                        <div class="logoAvisoAnadirUsuario"></div>
+                    </div>
+                    <div class="ui-block-b width90">
+                        <span id="lblBuscador" class="lng-avisos-AnadirUsuario textoAvisos subrayadoAnadirUsuario"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div id="nuevoUsuario" class="inputNuevoUsuario">
+                <input class="inputRuralvia" data-clear-btn="true" type="text" name="name" id="inputAvisoUsuario" value="" placeholder="Usuario"
+                    maxlength="8" />
+                <label class="labelError" id="errorAvisosUsuario"></label>
+
+                <input class="inputRuralvia" data-clear-btn="true" type="password" name="name" id="inputAvisoDNI" value="" placeholder="NIF/NIE"
+                    maxlength="9" />
+                <label class="labelError" id="errorAvisosDNI"></label>
+
+                <a id="btnAvisoNuevoUsuario" data-role="button" data-shadow="false" class="lng-boton-aviso-nuevo btnGris"></a>
+            </div>
+
+        </div>
+
+        <div id="pageAvisoPrevioDesactivar" class="paddingLateral">
+
+            <!--Inicio Parte común-->
+            <!-- <p class="lng-avisos-desactivar-cuerpo-1 textoAvisos"></p> -->
+            <p><span class="lng-avisos-desactivar-cuerpo-1 textoAvisos"></span><span>&nbsp</span><span class="desactivar negrita"></span></p>
+            <!--Fin Parte Común-->
+
+            <div id="divDesactivarUsuario">
+
+                <label class="lng-label-aviso-seleccioneUsuario textoRegistro textoFor"></label>
+
+                <select id="selectDesactivarUsuario" class="selectUsuario"></select>
+
+                <a id="btnAvisoDesactivar" data-role="button" data-shadow="false" class="lng-boton-aviso-desactivar btnVerde"></a>
+            </div>
+        </div>
+
+        <div id="pageAvisoCredencialesUsuario">
+            <iframe id="iframeCredenciales" class="content-web" frameborder="0"></iframe>
+        </div>
+    </section>
+
+    <div data-role="popup" id="popup-push-eliminar" data-shadow="true" class="popup sinBorde" data-theme="a" data-dismissible="true"
+        data-overlay-theme="b" data-history="false" data-position-to="origin">
+
+        <div class="headerNegro">
+            <label class="lng-popupHeader-titulo tituloPopupEliminar centrado"></label>
+        </div>
+
+        <div role="main" class="ui-content">
+            <p id="eliminarUno" class="lng-eliminarUno"></p>
+            <p id="eliminarVarios" class="lng-eliminarVarios"></p>
+
+            <div id="botones" class="ui-grid-a">
+                <div class="ui-block-a">
+                    <a id="btnPushEliminarAceptar" data-role="button" data-shadow="false" class="lng-eliminar-aceptar btnVerde"></a>
+                </div>
+
+                <div class="ui-block-b">
+                    <a id="btnPushEliminarCancelar" data-role="button" data-shadow="false" class="lng-eliminar-cancelar btnVerde"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- popup nuevo usuario push -->
+    <div data-role="popup" id="popup-push-altaNuevoUsuario" data-shadow="true" class="popup sinBorde" data-theme="a" data-dismissible="true"
+        data-overlay-theme="b" data-history="false" data-position-to="origin">
+
+        <div class="headerNegro">
+            <label class="lng-popupPush-nuevoUsuario tituloPopupEliminar centrado"></label>
+        </div>
+
+        <div role="main" class="ui-content">
+            <p class="lng-relleneCampos"></p>
+
+            <div id="push-nuevoUsuario" class="inputNuevoUsuario">
+                <input class="inputRuralvia" data-clear-btn="true" type="text" name="name" id="inputPushAltaUsuario" value="" placeholder="Usuario"
+                    maxlength="8" />
+                <label class="labelError" id="errorAvisosUsuario"></label>
+
+                <input class="inputRuralvia" data-clear-btn="true" type="password" name="name" id="inputPushAltaDNI" value="" placeholder="NIF/NIE"
+                    maxlength="9" />
+                <label class="labelError" id="errorAvisosDNI"></label>
+
+            </div>
+
+            <div id="botonesPushAltaUsuario" class="ui-grid-a">
+                <div class="ui-block-a">
+                    <a id="btnPushNuevoUsuarioAceptar" data-role="button" data-shadow="false" class="lng-eliminar-aceptar btnVerde"></a>
+                </div>
+
+                <div class="ui-block-b">
+                    <a id="btnPushNuevoUsuarioCancelar" data-role="button" data-shadow="false" class="lng-eliminar-cancelar btnGris"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div data-role="popup" id="popup-push-bajaUsuario" data-shadow="true" class="popup sinBorde" data-theme="a" data-dismissible="true"
+        data-overlay-theme="b" data-history="false" data-position-to="origin">
+
+        <div class="headerNegro">
+            <label class="lng-popupPush-bajaUsuario tituloPopupEliminar centrado"></label>
+        </div>
+
+        <div role="main" class="ui-content">
+            <p class="lng-relleneCampos"></p>
+
+            <div id="push-bajaUsuario" class="inputNuevoUsuario">
+                <input class="inputRuralvia" data-clear-btn="true" type="text" name="name" id="inputPushBajaUsuario" value="" placeholder="Usuario"
+                    maxlength="8" />
+                <!-- <select id="selectUsuario" class="selectUsuariossss"></select> -->
+                <label class="labelError" id="errorAvisosUsuario"></label>
+
+                <input class="inputRuralvia" data-clear-btn="true" type="password" name="name" id="inputPushBajaDNI" value="" placeholder="NIF/NIE"
+                    maxlength="9" />
+                <label class="labelError" id="errorAvisosDNI"></label>
+
+            </div>
+
+            <div id="botonesPushAltaUsuario" class="ui-grid-a">
+                <div class="ui-block-a">
+                    <a id="btnPushBajaUsuarioAceptar" data-role="button" data-shadow="false" class="lng-eliminar-aceptar btnVerde"></a>
+                </div>
+
+                <div class="ui-block-b">
+                    <a id="btnPushBajaUsuarioCancelar" data-role="button" data-shadow="false" class="lng-eliminar-cancelar btnGris"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>

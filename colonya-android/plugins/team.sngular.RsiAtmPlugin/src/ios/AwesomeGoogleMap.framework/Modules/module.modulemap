@@ -1,0 +1,6 @@
+framework module AwesomeGoogleMap {
+  umbrella header "AwesomeGoogleMap.h"
+
+  export *
+  module * { export * }
+}

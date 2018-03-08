@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="120dp">
+
+    <LinearLayout
+        android:id="@+id/linear_comission_view"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.5"
+        android:background="@drawable/sombra_lateral"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/comission_view"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="bottom|center_horizontal">
+
+            <sngular.com.atmsmap.presentation.util.OpenSansTextView
+                android:id="@+id/comission_number_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/app_black"
+                android:textSize="30sp"
+                android:textStyle="italic"/>
+
+            <sngular.com.atmsmap.presentation.util.OpenSansTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/app_black"
+                android:textSize="30sp"
+                android:textStyle="italic"
+                android:text="€"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/comission_desc_view"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="top|center_horizontal">
+
+            <sngular.com.atmsmap.presentation.util.OpenSansTextView
+                android:id="@+id/comission_description_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:padding="3dp"
+                android:textColor="@color/app_black"
+                android:textSize="12sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <sngular.com.atmsmap.presentation.util.OpenSansTextView
+            android:id="@+id/address_first_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:maxLines="1"
+            android:lines="1"
+            android:paddingLeft="15dp"
+            android:textColor="@color/app_black"
+            android:textSize="14sp" />
+
+        <sngular.com.atmsmap.presentation.util.OpenSansTextView
+            android:id="@+id/entity_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@id/address_first_text"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:maxLines="2"
+            android:paddingBottom="3dp"
+            android:paddingLeft="15dp"
+            android:textAllCaps="true"
+            android:textColor="@color/app_black"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <sngular.com.atmsmap.presentation.util.OpenSansTextView
+            android:id="@+id/address_second_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@id/address_first_text"
+            android:lines="1"
+            android:maxLines="1"
+            android:paddingLeft="15dp"
+            android:paddingTop="3dp"
+            android:textColor="@color/app_black"
+            android:textSize="14sp" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.4">
+
+        <ImageView
+            android:id="@+id/image_poi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerInParent="true"
+            android:src="@drawable/ic_pin" />
+
+        <sngular.com.atmsmap.presentation.util.OpenSansTextView
+            android:id="@+id/distance_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/image_poi"
+            android:layout_centerHorizontal="true"
+            android:paddingTop="3dp"
+            android:textColor="@color/app_black"
+            android:textSize="12sp" />
+
+    </RelativeLayout>
+
+</LinearLayout>

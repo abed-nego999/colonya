@@ -1,0 +1,80 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "com.phonegap.plugins.nativesettingsopener": {
+            "PACKAGE_NAME": "com.cajarural.ruralvia"
+        },
+        "cordova-plugin-badge": {
+            "PACKAGE_NAME": "com.cajarural.ruralvia"
+        },
+        "cordova-plugin-crosswalk-webview": {
+            "PACKAGE_NAME": "com.cajarural.ruralvia"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.cajarural.ruralvia"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.cajarural.ruralvia"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.cajarural.ruralvia"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.cajarural.ruralvia"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.cajarural.ruralvia"
+        },
+        "cordova-plugin-screen-orientation": {
+            "PACKAGE_NAME": "com.cajarural.ruralvia"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.cajarural.ruralvia"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.cajarural.ruralvia"
+        },
+        "cordova-plugin-uniquedeviceid": {
+            "PACKAGE_NAME": "com.cajarural.ruralvia"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.cajarural.ruralvia"
+        },
+        "cordova-sqlite-storage": {
+            "PACKAGE_NAME": "com.cajarural.ruralvia"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.cajarural.ruralvia"
+        },
+        "cordova-plugin-file-opener2": {
+            "PACKAGE_NAME": "com.cajarural.ruralvia"
+        },
+        "phonegap-plugin-push": {
+            "SENDER_ID": "192046065163",
+            "PACKAGE_NAME": "com.cajarural.ruralvia"
+        },
+        "team.sngular.RsiAtmPlugin": {
+            "PACKAGE_NAME": "com.cajarural.ruralvia"
+        },
+        "ruralvia-data-dump": {
+            "PACKAGE_NAME": "com.rsi"
+        },
+        "cordova-plugin-appversion": {
+            "PACKAGE_NAME": "com.rsi"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-app-event": {
+            "PACKAGE_NAME": "com.cajarural.ruralvia"
+        },
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.cajarural.ruralvia"
+        }
+    }
+}

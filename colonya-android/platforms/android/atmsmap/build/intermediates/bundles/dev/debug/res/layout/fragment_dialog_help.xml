@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <sngular.com.atmsmap.presentation.util.OpenSansTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="20dp"
+        android:gravity="center"
+        android:text="@string/help_title"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <sngular.com.atmsmap.presentation.util.OpenSansTextView
+            android:id="@+id/same_entity_modal_text"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="15dp"
+            android:layout_weight="1"
+            android:drawablePadding="5dp"
+            android:drawableTop="@drawable/poi_verde_modal"
+            android:gravity="center"
+            android:textColor="@android:color/white"
+            android:textSize="13sp" />
+
+        <sngular.com.atmsmap.presentation.util.OpenSansTextView
+            android:id="@+id/same_office_modal_text"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="15dp"
+            android:layout_weight="1"
+            android:drawablePadding="5dp"
+            android:drawableTop="@drawable/poi_oficina_modal"
+            android:gravity="center"
+            android:textColor="@android:color/white"
+            android:textSize="13sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+        <sngular.com.atmsmap.presentation.util.OpenSansTextView
+            android:id="@+id/group_entity_modal_text"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="15dp"
+            android:layout_weight="1"
+            android:drawablePadding="5dp"
+            android:drawableTop="@drawable/poi_azul_modal"
+            android:gravity="center"
+            android:text="@string/help_group_entity"
+            android:textColor="@android:color/white"
+            android:textSize="13sp" />
+
+        <sngular.com.atmsmap.presentation.util.OpenSansTextView
+            android:id="@+id/other_office_modal_text"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="15dp"
+            android:layout_weight="1"
+            android:drawablePadding="8dp"
+            android:drawableTop="@drawable/poi_gris_modal"
+            android:gravity="center"
+            android:text="@string/help_others_entity"
+            android:textColor="@android:color/white"
+            android:textSize="13sp" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/dialog_help_close"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:padding="5dp"
+        android:text="@string/accept"
+        android:textColor="@color/app_semi_black" />
+</LinearLayout>

@@ -1,0 +1,50 @@
+// main: app.less
+
+// Landscape
+@media screen and (orientation:landscape) {
+    .footer {
+        position: static;
+    }
+}
+
+//moviles pequeños
+@media screen and (max-width : @bp1) {
+    @import "breakpoints/bp1/extensiones.less";
+    @import "breakpoints/bp1/directivas.less";
+    @import "breakpoints/bp1/clases.less";
+}
+
+//móviles medianos
+@media screen and (min-width: @bp1) and (max-width: @bp3){
+    @import "breakpoints/bp2/extensiones.less";
+    @import "breakpoints/bp2/directivas.less";
+    @import "breakpoints/bp2/clases.less";
+}
+
+//móviles grandes
+@media screen and (min-width: @bp3){
+    @import "breakpoints/bp3/extensiones.less";
+    @import "breakpoints/bp3/directivas.less";
+    @import "breakpoints/bp3/clases.less";
+}
+
+// Retina Grande
+@media (-webkit-min-device-pixel-ratio: 2) { 
+    @import "breakpoints/retinaGrande/extensiones.less";
+    @import "breakpoints/retinaGrande/directivas.less";
+    @import "breakpoints/retinaGrande/clases.less";
+}
+
+// Retina Pequeño
+@media (-webkit-min-device-pixel-ratio: 2) and (max-height: @bp-alto-retina-pequeno) { 
+    @import "breakpoints/retinaPequeno/extensiones.less";
+    @import "breakpoints/retinaPequeno/directivas.less";
+    @import "breakpoints/retinaPequeno/clases.less";
+}
+
+//landscape
+@media screen and (orientation:landscape) and (max-height: @bp2-alto)  {
+    @import "breakpoints/landscapeBP2/extensiones.less";
+    @import "breakpoints/landscapeBP2/directivas.less";
+    @import "breakpoints/landscapeBP2/clases.less";
+}

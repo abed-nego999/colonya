@@ -1,0 +1,95 @@
+// main: ..\app.less
+
+.fondoMensajePushLeido {
+    background-color: #FFF;
+}
+
+.fondoMensajePushNoLeido {
+    background-color: #f4f3f3;
+}
+
+.fondoMensajePushSeleccionado {
+    background-color: #f0f4fd !important;
+}
+
+.checkboxPush {
+    width: 10% !important;
+    padding-left: 0.25em;
+}
+
+.msgPush {
+    width: 64% !important;
+    
+    span {
+        vertical-align: sub;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        width: 100%;
+        display: block;
+        overflow: hidden;
+        padding-top: 0.4rem;
+    }
+}
+
+.fechaPush {
+    width: 21% !important;
+    text-align: right;
+    padding-right: 0.5em;
+    span {
+        font-size: 0.7rem;
+    }
+}
+
+.fechaPushLeido {
+    span {
+        color: #bcbdbb;
+    }
+}
+
+.fechaPushNoLeido {
+    span {
+        color: @color-basico-18;
+    }
+}
+
+.irPush {
+    width: 5% !important;
+}
+
+.pushLeido span{
+        font-family: 'OpenSans-regular';
+        font-size: 0.8rem;
+        color: aliceblue;
+}
+
+.pushNoLeido span{
+        font-family: 'OpenSans-Bold';
+        font-size: 0.8rem;
+}
+
+.marginRightEliminar {
+    margin-right: 0.5em !important;
+}
+
+.badgePush {
+    height: 1.4em;
+    background-color: red;
+    background-size: 100%;
+    border-radius: 1em;
+    margin-top: 0.6em !important;
+    margin-right: 0.6em !important;
+    position: absolute;
+    text-align: center;
+    width: auto !important;
+    text-shadow: none;
+    font-size: 0.8em !important;
+    font-weight: 600 !important;
+    right: 0;
+    color: #FFF;
+    padding: 0.1em 0.4em;
+}
+
+.noMensajePush {
+    width: 6em;
+    margin: 4em auto 0;
+}

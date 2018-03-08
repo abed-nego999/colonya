@@ -1,0 +1,12 @@
+{
+    "EE_O_LocalizadorOficinas": {
+        "@xmlns:se": "http://www.ruralserviciosinformaticos.com/empresa/SOA_RVIA/SE_RVA_LocalizadorOficinas/",
+        "@xmlns:soap-env": "http://schemas.xmlsoap.org/soap/envelope/",
+        "codigoRetorno": "0",
+        "Errores": {
+            "codigoMostrar": "40001",
+            "mensajeMostrar": " Error Conexión",
+            "solucion": "Contacte con el proveedor del servicio."
+        }
+    }
+}

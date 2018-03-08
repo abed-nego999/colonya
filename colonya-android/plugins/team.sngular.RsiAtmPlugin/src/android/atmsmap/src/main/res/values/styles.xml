@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#000000</item>
+        <item name="colorPrimaryDark">#000</item>
+        <item name="colorAccent">#000</item>
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="drawerArrowStyle">@style/WhiteDrawerIconStyle</item>
+    </style>
+
+    <style name="WhiteDrawerIconStyle" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="spinBars">true</item>
+        <item name="color">@android:color/white</item>
+    </style>
+
+    <style name="DialogSlideAnim" parent="@android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowAnimationStyle">@style/DialogAnimation</item>
+    </style>
+
+    <style name="DialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/abc_slide_in_bottom</item>
+        <item name="android:windowExitAnimation">@anim/abc_slide_out_bottom</item>
+    </style>
+
+    <style name="clusterGenText">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#067B60</item>
+    </style>
+
+    <style name="iconGenText">
+        <item name="android:textSize">10sp</item>
+        <item name="android:textColor">#333333</item>
+    </style>
+
+    <style name="iconGenBigText">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#333333</item>
+    </style>
+</resources>

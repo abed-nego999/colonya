@@ -1,0 +1,6 @@
+framework module RsiAtm {
+  umbrella header "RsiAtm.h"
+
+  export *
+  module * { export * }
+}

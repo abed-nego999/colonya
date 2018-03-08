@@ -1,0 +1,58 @@
+// main: app.less
+
+.insertar-icono(@url) {
+    background-image: url(@url);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: 0.75rem;
+    background-size: 1.4rem 1.2rem;
+}
+
+.insertar-fondo(@url) {
+    background-image: url(@url); 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.insertar-fondo-input(@url) {
+    background: url(@url) no-repeat scroll 0.25em 50% !important;
+    padding: 8px 1.75em !important;
+}
+
+.insertar-gradiente() {
+    background-image: -webkit-gradient(linear, right bottom, left bottom, color-stop(0, @color-principal-2), color-stop(1, @color-principal-1));
+    background-image: -o-linear-gradient(left, @color-principal-2 0%, @color-principal-1 100%);
+    background-image: -moz-linear-gradient(left, @color-principal-2 0%, @color-principal-1 100%);
+    background-image: -webkit-linear-gradient(left, @color-principal-2 0%, @color-principal-1 100%);
+    background-image: -ms-linear-gradient(left, @color-principal-2 0%, @color-principal-1 100%);
+    background-image: linear-gradient(to left, @color-principal-2 0%, @color-principal-1 100%);
+}
+
+// Mixins font awesome
+// --------------------------
+
+.fa-icon() {
+  display: inline-block;
+  font: normal normal normal @fa-font-size-base/@fa-line-height-base FontAwesome; // shortening font declaration
+  font-size: inherit; // can't have font-size inherit on line above, so need to override
+  text-rendering: auto; // optimizelegibility throws things off #1094
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+
+.fa-icon-rotate(@degrees, @rotation) {
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=@rotation);
+  -webkit-transform: rotate(@degrees);
+      -ms-transform: rotate(@degrees);
+          transform: rotate(@degrees);
+}
+
+.fa-icon-flip(@horiz, @vert, @rotation) {
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=@rotation, mirror=1);
+  -webkit-transform: scale(@horiz, @vert);
+      -ms-transform: scale(@horiz, @vert);
+          transform: scale(@horiz, @vert);
+}

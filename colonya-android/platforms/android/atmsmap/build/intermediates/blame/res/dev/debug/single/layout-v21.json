@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/danielparracrespo/.android/build-cache/30325c316064ed4054dcb3800a2acdfa3da0deb4/output/res/layout-v21/place_autocomplete_fragment.xml"
+    }
+]

@@ -1,0 +1,88 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/search_gradient_box"
+        android:orientation="horizontal">
+
+        <sngular.com.atmsmap.presentation.util.OpenSansTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:text="@string/search_radius"
+            android:textColor="@color/app_semi_black"
+            android:textSize="14sp"
+            android:textStyle="italic" />
+
+        <sngular.com.atmsmap.presentation.util.OpenSansTextView
+            android:id="@+id/search_radius_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_margin="20dp"
+            android:textColor="@color/app_semi_black"
+            android:textSize="14sp"
+            android:textStyle="italic" />
+    </RelativeLayout>
+
+    <SeekBar
+        android:id="@+id/search_radius_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:maxHeight="5dp"
+        android:minHeight="5dp"
+        android:progressDrawable="@drawable/search_progress_bar"
+        android:thumb="@drawable/ic_circle"
+        android:thumbOffset="5dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <sngular.com.atmsmap.presentation.util.OpenSansTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginStart="20dp"
+            android:text="@string/min_radius"
+            android:textColor="@color/app_semi_black"
+            android:textSize="14sp"
+            android:textStyle="italic" />
+
+        <sngular.com.atmsmap.presentation.util.OpenSansTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginEnd="20dp"
+            android:layout_marginRight="20dp"
+            android:text="@string/max_radius"
+            android:textColor="@color/app_semi_black"
+            android:textSize="14sp"
+            android:textStyle="italic" />
+    </RelativeLayout>
+
+    <sngular.com.atmsmap.presentation.util.OpenSansTextView
+        android:id="@+id/btn_search"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/ic_buscar_button"
+        android:enabled="false"
+        android:gravity="center"
+        android:text="@string/search"
+        android:textColor="@color/app_gray"
+        android:textSize="18sp" />
+</LinearLayout>

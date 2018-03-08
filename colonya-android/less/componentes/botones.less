@@ -1,0 +1,193 @@
+// main: ../app.less
+
+.imgBuscador {
+    background-image: url('@{ruta-img}/buscador.png');
+    background-repeat: no-repeat;
+    background-position-x: left;
+    background-position-y: center;
+    height: inherit;
+    background-size: 3em;
+    background-origin: content-box;
+}
+
+.imgContacto {
+    background-image: url('@{ruta-img}/contacto.png');
+    background-repeat: no-repeat;
+    background-position-x: left;
+    background-position-y: center;
+    height: inherit;
+    background-size: 3em;
+    background-origin: content-box;
+}
+
+.imgPush {
+    background-image: url('@{ruta-img}/push.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-position-x: center;
+    height: 2em;
+    width: 2em;
+    margin-top: 1rem;
+    margin-right: 1em;
+}
+
+.lng-portal-OficinasYCajeros, .lng-portal-Contacto {
+    text-align: left !important;
+    line-height: 1.3em;
+    word-wrap: break-word;
+    display: inline-block;
+    white-space: normal;
+}
+
+.btnBlanco {
+    background-color: white !important;
+    color: @color-basico-13 !important;
+    border-color: @color-basico-16 !important;    
+    border-top-left-radius: 0px !important;
+    border-top-right-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+    
+    box-shadow: none !important;
+    
+    .ui-grid-a {
+        .width30 {
+            height: 3rem;
+        }
+    }
+}
+
+.btnVerde {
+    margin-top: 0;
+    background-color: @color-basico-14 !important;
+    border-color: #519b04 !important;
+    border-radius: 5px !important;
+    box-shadow: 2px 2px 2px @color-basico-11 !important;
+    color: @color-basico-1 !important;
+    text-shadow: 0 1px 0 @color-basico-13 !important;
+    border-width: 0 0 3px 0;
+    font-weight: 700 !important;
+    padding-top: 0.7rem;
+    padding-bottom: 0.5rem;
+}
+
+.btnVerde:active {
+    border-width: 3px 0 0;
+    position: relative;
+    top: 3px;
+}
+
+.btnGris {
+    margin-top: 0;
+    background-color: @color-basico-17 !important;
+    border-color: #b8b8b8 !important;
+    border-radius: 5px !important;
+    box-shadow: 2px 2px 2px #999;
+    color: @color-basico-13 !important;
+    text-shadow: 0 0 0 !important;
+    border-width: 0 0 3px 0;
+    font-weight: bold !important;
+    border-width: 0px 0px 3px;
+    cursor: auto;
+    padding-top: 0.9rem;
+    padding-bottom: 0.5rem;
+    text-shadow: 0px 1px 0px #fff!important;
+}
+
+.btnGris:active {
+    border-width: 3px 0 0;
+    position: relative;
+    top: 3px;
+}
+
+.btnAccesoClientes {
+    width: 100%;
+}
+
+.botoneraBuscadorContacto {
+    padding: 0.5em 1em 0 1em;
+    
+    .ui-block-a {
+        .btnBlanco {
+            margin: .5em .4em .8em 0 !important;
+            padding: 2em 0.5em 2em 1em;
+        }
+    }
+    
+    .ui-block-b {
+        .btnBlanco {
+            margin: .5em 0 .8em .4em !important;
+            padding: 2em 0.5em 2em 1em;
+        }
+    }
+        
+}
+
+.btnGrisPushEliminar{
+    margin-top: 0;
+    background-color: @color-basico-17 !important;
+    border-color: #b8b8b8 !important;
+    border-radius: 5px !important;
+    box-shadow: 2px 2px 5px #999;
+    color: @color-basico-13 !important;
+    text-shadow: 0 0 0 !important;
+    border-width: 0 0 3px 0;
+    font-weight: bold !important;
+    border-width: 0px 0px 3px;
+    cursor: auto;
+}
+
+.btnGrisPushEliminar:active {
+    border-width: 3px 0 0;
+    position: relative;
+    top: 3px;
+}
+
+.btnVerdeRegistroEliminar{
+    margin-top: 0;
+    background-color: @color-basico-14 !important;
+    border-color: #519b04 !important;
+    border-radius: 5px !important;
+    box-shadow: 2px 2px 2px @color-basico-11 !important;
+    color: @color-basico-1 !important;
+    text-shadow: 0 0 0 !important;
+    border-width: 0 0 3px 0;
+    font-weight: bold !important;
+    border-width: 0px 0px 3px;
+    cursor: auto;
+}
+
+.btnVerdeRegistroEliminar:active {
+    border-width: 3px 0 0;
+    position: relative;
+    top: 3px;
+}
+
+.ui-input-text.ui-input-has-clear .ui-btn.ui-input-clear {
+    background-color: transparent !important;
+    background-size: cover;
+    height: 48px;
+    margin: -18px .3125em 0 !important;
+    width: 48px;
+}
+
+.ui-icon-delete:after {
+    background-image: url('@{ruta-img}/borrar.png');
+    height: 33px;
+    margin-top: -24px;
+    width: 32px;
+    background-size: 90%;
+}
+
+.ui-btn-icon-notext:after {
+    background-color: transparent;
+}
+
+.botoneraAceptarEliminar .ui-block-a .btnVerde {
+    margin-left: 0 !important;
+}
+
+.botoneraAceptarEliminar .ui-block-b .btnVerde {
+    margin-right: 0 !important;
+}

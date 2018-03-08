@@ -1,0 +1,330 @@
+[
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/sombra_action_bar.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable/sombra_action_bar.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/switch_custom_thumb.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable/switch_custom_thumb.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/search_gradient_box.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable/search_gradient_box.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\selector_location_disabled.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable\\selector_location_disabled.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/line_divider.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable/line_divider.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/sombra_lateral.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable/sombra_lateral.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\selector_show_my_location.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable\\selector_show_my_location.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/switch_custom_track_selector.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable/switch_custom_track_selector.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/search_text_box.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable/search_text_box.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\switch_custom_thumb_selector.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable\\switch_custom_thumb_selector.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\search_text_box.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable\\search_text_box.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable/common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/switch_custom_thumb_selector.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable/switch_custom_thumb_selector.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/selector_show_commissions.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable/selector_show_commissions.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/search_progress_bar.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable/search_progress_bar.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\sombra_action_bar.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable\\sombra_action_bar.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/selector_show_my_location.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable/selector_show_my_location.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\search_progress_bar.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable\\search_progress_bar.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/switch_custom_track.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable/switch_custom_track.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\switch_custom_track_selector.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable\\switch_custom_track_selector.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\switch_custom_thumb.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable\\switch_custom_thumb.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\switch_custom_track.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable\\switch_custom_track.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/selector_location_disabled.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/src/main/res/drawable/selector_location_disabled.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/danielparracrespo/.android/build-cache/3cd3e090bb0f55b954f776f80aecd771d64b9bbb/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\search_gradient_box.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable\\search_gradient_box.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\sombra_lateral.png",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable\\sombra_lateral.png"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\line_divider.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable\\line_divider.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/atmsmap/build/intermediates/res/merged/dev/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/danielparracrespo/.android/build-cache/19f9c5410282fbb2169524df70d6ee6337c1382c/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\build\\intermediates\\res\\merged\\dev\\debug\\drawable\\selector_show_commissions.xml",
+        "source": "/Users/danielparracrespo/Documents/colonya/Colonya PROD-android/platforms/android/C:\\dev\\Colonya PROD\\platforms\\android\\atmsmap\\src\\main\\res\\drawable\\selector_show_commissions.xml"
+    }
+]

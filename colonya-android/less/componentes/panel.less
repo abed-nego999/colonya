@@ -1,0 +1,91 @@
+// main: ../app.less
+
+.panel-menu {
+    //width: @ancho-panel;
+    
+    .ui-panel-inner {
+        padding: 0 !important;
+    }
+}
+
+.ui-panel-dismiss-open.ui-panel-dismiss-position-right {
+    right: 0;
+}
+
+.ui-panel-dismiss {
+    z-index: 1;
+}
+
+.enlacePanel {
+    background-color: transparent !important;
+    border-color: @color-basico-16 !important;
+    text-shadow: none !important;
+    text-decoration: none;
+    font-weight: 400 !important;
+}
+
+.ui-panel-dismiss {
+    background-color: @color-basico-13;
+    opacity: 0.3;
+}
+
+.paddingTopPanelPrimero {
+    padding-top: 0.75em !important;
+}
+
+.esHijo {
+    //padding-left: 0.5em !important;
+}
+
+.flechaDerecha {
+    background-image: url('../../img/select-Derecha.png'); 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 5%;
+    background-position: 95% 50%;
+}
+
+.flechaAbajo {    
+    background-image: url('../../img/select-Dropdown.png');
+    background-color: #444;
+    background-size: 5%;
+    background-repeat: no-repeat;
+    background-position: 95% 50%;
+    font-weight: bold;
+    cursor: pointer;
+    color: #fff;
+}
+
+.bgMenu {
+    background-color: @color-basico-5 !important;
+}
+
+.paddingLateralMenu {
+    padding-left: 0.5rem;
+    padding-right: 2rem !important;
+}
+
+.paddingSupInfMenu {
+    padding-top: 1rem !important;
+    padding-bottom: 0.75rem !important;
+}
+
+.subrayadoGrisMenu {
+    border-bottom: 1px solid @color-basico-19;
+}
+
+.logoMenuPanel {
+    height: 1.5rem;
+    width: auto !important;
+    vertical-align: bottom;
+}
+
+.menu-item div .ui-block-d {
+    margin-top: 0.2rem;
+}
+
+.menu-item:active div div a span {
+    color: #66cb00;
+}
